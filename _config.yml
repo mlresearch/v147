@@ -14,7 +14,7 @@ volume: '147'
 start: 2021-07-06
 end: 2021-07-09
 published: 2021-08-18
-url: http://proceedings.mlr.press
+url: https://proceedings.mlr.press
 conference_number: '12'
 layout: proceedings
 series: Proceedings of Machine Learning Research
