@@ -26,12 +26,9 @@ issn: 2640-3498
 id: moral-garci-a21a
 month: 0
 tex_title: 'Using Credal C4.5 for Calibrated Label Ranking in Multi-Label Classification '
-firstpage: !binary |-
-  MjIw4oCTMjI4
-lastpage: !binary |-
-  MjIw4oCTMjI4
-page: !binary |-
-  MjIw4oCTMjI4LTIyMOKAkzIyOA==
+firstpage: 220
+lastpage: 228
+page: 220-228
 order: 220
 cycles: false
 bibtex_author: Moral Garc\'{\i}a, Seraf\'{\i}n and Castellano, Javier Garc\'{\i}a

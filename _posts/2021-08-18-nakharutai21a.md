@@ -25,12 +25,9 @@ issn: 2640-3498
 id: nakharutai21a
 month: 0
 tex_title: Improving Algorithms for Decision Making with the Hurwicz Criterion
-firstpage: !binary |-
-  MjM14oCTMjQz
-lastpage: !binary |-
-  MjM14oCTMjQz
-page: !binary |-
-  MjM14oCTMjQzLTIzNeKAkzI0Mw==
+firstpage: 235
+lastpage: 243
+page: 235-243
 order: 235
 cycles: false
 bibtex_author: Nakharutai, Nawapon and Troffaes, Matthias

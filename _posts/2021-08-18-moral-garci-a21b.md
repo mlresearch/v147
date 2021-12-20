@@ -24,12 +24,9 @@ id: moral-garci-a21b
 month: 0
 tex_title: Basic Probability Assignments Representable via Belief Intervals for Singletons
   in Dempster-Shafer Theory
-firstpage: !binary |-
-  MjI54oCTMjM0
-lastpage: !binary |-
-  MjI54oCTMjM0
-page: !binary |-
-  MjI54oCTMjM0LTIyOeKAkzIzNA==
+firstpage: 229
+lastpage: 234
+page: 229-234
 order: 229
 cycles: false
 bibtex_author: Moral Garc\'{\i}a, Seraf\'{\i}n and Abell\'an, Joaqu\'{\i}n

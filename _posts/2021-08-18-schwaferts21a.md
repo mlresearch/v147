@@ -29,12 +29,9 @@ issn: 2640-3498
 id: schwaferts21a
 month: 0
 tex_title: Imprecise Hypothesis-Based Bayesian Decision Making with Composite Hypotheses
-firstpage: !binary |-
-  Mjgw4oCTMjg4
-lastpage: !binary |-
-  Mjgw4oCTMjg4
-page: !binary |-
-  Mjgw4oCTMjg4LTI4MOKAkzI4OA==
+firstpage: 280
+lastpage: 288
+page: 280-288
 order: 280
 cycles: false
 bibtex_author: Schwaferts, Patrick Michael and Augustin, Thomas

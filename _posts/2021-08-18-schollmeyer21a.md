@@ -36,12 +36,9 @@ id: schollmeyer21a
 month: 0
 tex_title: Computing Simple Bounds for Regression Estimates for Linear Regression
   with Interval-valued Covariates
-firstpage: !binary |-
-  Mjcz4oCTMjc5
-lastpage: !binary |-
-  Mjcz4oCTMjc5
-page: !binary |-
-  Mjcz4oCTMjc5LTI3M+KAkzI3OQ==
+firstpage: 273
+lastpage: 279
+page: 273-279
 order: 273
 cycles: false
 bibtex_author: Schollmeyer, Georg
