@@ -18,12 +18,9 @@ issn: 2640-3498
 id: carranza-alarcon21a
 month: 0
 tex_title: Distributionally Robust, Skeptical Binary Inferences in Multi-label Problems
-firstpage: !binary |-
-  NTHigJM2MA==
-lastpage: !binary |-
-  NTHigJM2MA==
-page: !binary |-
-  NTHigJM2MC01MeKAkzYw
+firstpage: 51
+lastpage: 60
+page: 51-60
 order: 51
 cycles: false
 bibtex_author: Carranza Alarc\'on, Yonatan Carlos and Destercke, S\'ebastien
