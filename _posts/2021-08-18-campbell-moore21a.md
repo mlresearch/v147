@@ -20,12 +20,9 @@ id: campbell-moore21a
 month: 0
 tex_title: Probability Filters as a Model of Belief; Comparisons to the Framework
   of Desirable Gambles
-firstpage: !binary |-
-  NDLigJM1MA==
-lastpage: !binary |-
-  NDLigJM1MA==
-page: !binary |-
-  NDLigJM1MC00MuKAkzUw
+firstpage: 42
+lastpage: 50
+page: 42-50
 order: 42
 cycles: false
 bibtex_author: Campbell-Moore, Catrin
