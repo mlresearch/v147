@@ -26,7 +26,7 @@ tex_title: Basic Probability Assignments Representable via Belief Intervals for 
   in Dempster-Shafer Theory
 firstpage: 229
 lastpage: 234
-page: 220-228
+page: 229-234
 order: 229
 cycles: false
 bibtex_author: Moral Garc\'{\i}a, Seraf\'{\i}n and Abell\'an, Joaqu\'{\i}n
