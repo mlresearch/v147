@@ -25,7 +25,7 @@ month: 0
 tex_title: Basic Probability Assignments Representable via Belief Intervals for Singletons
   in Dempster-Shafer Theory
 firstpage: 229
-lastpage: 228
+lastpage: 234
 page: 220-228
 order: 229
 cycles: false
